@@ -1,16 +1,7 @@
-# festival_post_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![startpage](https://github.com/user-attachments/assets/1d58a92f-1ded-4063-87e0-2131b442aa2b)
+![homepage](https://github.com/user-attachments/assets/1424b184-d548-4d74-b47c-ee0605345756)
+![detailpage](https://github.com/user-attachments/assets/ce701bf4-a358-4f40-8950-ed42f976ef47)
+![font color](https://github.com/user-attachments/assets/3da89df9-21f7-442d-91af-7c1752accc62)
+![textcopy](https://github.com/user-attachments/assets/fb873657-38d6-41e5-a7b3-9814e1504a20)
+![sharepage](https://github.com/user-attachments/assets/5901645b-7b7f-442e-955f-bf0c0d5f8e39)
+![download](https://github.com/user-attachments/assets/13842a12-0014-4d6a-9cf9-de42f6b5fcda)
